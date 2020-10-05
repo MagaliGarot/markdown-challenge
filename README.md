@@ -5,7 +5,7 @@
 *The little things in life*
 
 
-![Profile picture](/home/magaligarot/BeCode/Markedown1/)
+![Profile picture](https://media-exp1.licdn.com/dms/image/C5603AQH6_wRw1oo1_Q/profile-displayphoto-shrink_200_200/0?e=1606953600&v=beta&t=04SQggIj5A72JBIIWZay0bDyJC1Dqyd3djPWDxRS7SY)
 
 ## In training at BeCode Liège to become a web developer
 
@@ -16,12 +16,12 @@
 
 ### Hobbies
 * Web Developement
-    -HTML, CSS
+    - HTML, CSS
 * Ggraphics
-    -Affinity, Photoshop, Illustrator
+    - Affinity, Photoshop, Illustrator
         - vector, logo, illustration
 * Draw
-    -Illustration in numeric and watercolor
+    - Illustration in numeric and watercolor
 * Read
 * Swim
 * Walk
