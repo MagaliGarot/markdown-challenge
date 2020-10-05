@@ -40,7 +40,4 @@ I have watched every saison of X-Files.
 
 #### I have spent too much time in front-of screens.
 
-! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
-
 [<<Previous](https://github.com/KevKsar/markdown-challenge) ||Magali|| [>>Next](https://github.com/Maud-Pixel/markdow-challenge)
