@@ -5,7 +5,7 @@
 *The little things in life*
 
 
-![Profile picture](/image/0.jpeg)
+![Profile picture](/home/magaligarot/BeCode/Markedown1/)
 
 ## In training at BeCode Liège to become a web developer
 
