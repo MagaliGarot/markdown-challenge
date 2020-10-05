@@ -26,18 +26,18 @@
 * Swim
 * Walk
     - when it's not raining
+* Board games
+* Video games   
 
 ### You can always count on me when... 
 
 When you have nothing to request :). <br/>
 More seriously, I will do my best to help you.
 
-
-
 ### A funny story
 
-I have watched every saison of X-Files.
+As soon as it's cold, I always have fog on my glasses. It get worse with the mask. 
 
-#### I have spent too much time in front-of screens.
+#### I won't see anything this winter. Blindness is coming!
 
 [<<Previous](https://github.com/KevKsar/markdown-challenge) ||Magali|| [>>Next](https://github.com/Maud-Pixel/markdow-challenge)
