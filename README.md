@@ -1,7 +1,7 @@
 # markdown-challenge
 
 ## Link to the statement :
-https://github.com/becodeorg/LIE-Hamilton-4.25/blob/master/01-main-course/01-the-field/04-html-css/01-fundamentals/01-markdown-to-html.md
+https://github.com/becodeorg/LIE-Hamilton-4.25/blob/master/01-main-course/01-the-field/03-markdown/02.personal-intro.md
 
 # Magali Garot
 
